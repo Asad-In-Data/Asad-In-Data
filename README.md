@@ -1,3 +1,4 @@
+![20250505_0616_Tech-Infused Career Banner_simple_compose_01jtf0662te1vrav8r9bheeany](https://github.com/user-attachments/assets/521bf4a2-4fa5-4317-8a25-48e05a30bade)
 <h1 align="center">Hi 👋, I'm Asad Ali</h1>
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
 
