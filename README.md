@@ -17,12 +17,18 @@
 <!-- Text stays on the left side -->
 
 
-<p>🌱 I’m currently learning <strong>Data Science, ML/DL, NLP</strong></p>
-<p>👨‍💻 All of my projects are available at <a href="https://datz-asadanalyst.github.io/" target="_blank">My Portfolio</a></p>
-<p>💬 Ask me about <strong>Python, SQL, Power BI, Tableau, Excel</strong></p>
-<p>📫 How to reach me: <strong>asadalich56@gmail.com</strong></p>
-<p>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view?usp=drive_link" target="_blank">View Resume</a></p>
-<p>⚡ Fun fact: <strong>I am not just an Analyst</strong></p>
+<p><span style="font-size: 1.2em;">🌱 Currently diving deep into <strong>Data Science, Machine Learning, Deep Learning, and NLP</strong></span></p>
+
+<p><span style="font-size: 1.2em;">👨‍💻 Explore my work here: <a href="https://datz-asadanalyst.github.io/" target="_blank"><strong>My Portfolio</strong></a></span></p>
+
+<p><span style="font-size: 1.2em;">💬 Let's talk about: <strong>Python • SQL • Power BI • Tableau • Excel</strong></span></p>
+
+<p><span style="font-size: 1.2em;">📫 Reach me at: <a href="mailto:asadalich56@gmail.com"><strong>asadalich56@gmail.com</strong></a></span></p>
+
+<p><span style="font-size: 1.2em;">📄 Check out my resume: <a href="https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view?usp=drive_link" target="_blank"><strong>View Here</strong></a></span></p>
+
+<p><span style="font-size: 1.2em;">⚡ Fun fact: <strong>I am not just an Analyst</span></p>
+
 
 
 
