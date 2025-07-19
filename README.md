@@ -18,17 +18,34 @@
 <!-- Text stays on the left side -->
 
 
-<p><span style="font-size: 1.2em;">🌱 Currently diving deep into <strong>Data Science, Machine Learning, Deep Learning, and NLP</strong></span></p>
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; font-size: 1.1em; color: #2c3e50;">
 
-<p><span style="font-size: 1.2em;">👨‍💻 Explore my work here: <a href="https://datz-asadanalyst.github.io/" target="_blank"><strong>My Portfolio</strong></a></span></p>
+  <p>🌱 <strong>Currently exploring:</strong> Data Science, Machine Learning, Deep Learning & NLP</p>
 
-<p><span style="font-size: 1.2em;">💬 Let's talk about: <strong>Python • SQL • Power BI • Tableau • Excel</strong></span></p>
+  <p>👨‍💻 <strong>Explore my portfolio:</strong> 
+    <a href="https://datz-asadanalyst.github.io/" target="_blank" style="color: #1d72b8; text-decoration: none;">
+      My Portfolio
+    </a>
+  </p>
 
-<p><span style="font-size: 1.2em;">📫 Reach me at: <a href="mailto:asadalich56@gmail.com"><strong>asadalich56@gmail.com</strong></a></span></p>
+  <p>💬 <strong>Tech stack I work with:</strong> Python • SQL • Power BI • Tableau • Excel</p>
 
-<p><span style="font-size: 1.2em;">📄 Check out my resume: <a href="https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view?usp=drive_link" target="_blank"><strong>View Here</strong></a></span></p>
+  <p>📫 <strong>Contact me:</strong> 
+    <a href="mailto:asadalich56@gmail.com" style="color: #1d72b8; text-decoration: none;">
+      asadalich56@gmail.com
+    </a>
+  </p>
 
-<p><span style="font-size: 1.2em;">⚡ Fun fact: <strong>I am not just an Analyst</span></p>
+  <p>📄 <strong>View my resume:</strong> 
+    <a href="https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view?usp=drive_link" target="_blank" style="color: #1d72b8; text-decoration: none;">
+      Resume Link
+    </a>
+  </p>
+
+  <p>⚡ <strong>Fun fact:</strong> I’m not just an Analyst — I’m a problem solver with a passion for innovation.</p>
+
+</div>
+
 
 
 
