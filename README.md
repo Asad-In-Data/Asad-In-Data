@@ -1,5 +1,8 @@
 ![20250505_0618_Tech-Savvy Profile Banner_simple_compose_01jtf09vm1ejq9tdnrm261ps8g](https://github.com/user-attachments/assets/4f0e615a-c3b1-4dcd-a12f-1725a8220b2e)
 
+
+
+
 <h1 align="center">Hi 👋, I'm Asad Ali</h1>
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
 
@@ -38,7 +41,11 @@ contact = "asadalich56@gmail.com"
 location=    "Pakistan (Available for remote & freelance opportunities)"
 
 ```
-Fun Fact: I don’t just analyze — I innovate. Bringing data to life through intelligent insights and automation. Passionate about merging Data & Robotics to build future innovations.
+### 🔍 **Fun Fact**
+
+**I don’t just _analyze_  I _innovate_.**  Bringing **data to life** through intelligent insights and automation.  
+Passionate about merging **Data & Robotics** to build the innovations of tomorrow.
+
 
 
 
