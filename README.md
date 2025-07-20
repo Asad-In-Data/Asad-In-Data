@@ -52,84 +52,62 @@ Fun Fact: I don’t just analyze — I innovate. Bringing data to life through i
 <a href="https://linkedin.com/in/asad ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad ali" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">💻 Programming Languages</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" title="C">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-  </a>
-</p>
 
-<h3 align="left">🧠 Machine Learning / Libraries</h3>
-<p align="left">
+
+
+
+<!-- TECHNOLOGIES & TOOLS -->
+
+<h2 align="center">🚀 Tech Stack</h2>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Programming Languages" />
+  <br/><br/>
+
+  <!-- ML / DS Libraries -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ML Libraries" />
   <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" title="TensorFlow">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/>
-  </a>
-</p>
+  <br/><br/>
 
-<h3 align="left">🗃️ Databases</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  </a>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="SQL Server">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/>
   </a>
-</p>
+  <br/><br/>
 
-<h3 align="left">📊 Data Visualization / BI Tools</h3>
-<p align="left">
-  <a href="https://d3js.org/" target="_blank" title="D3.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com" target="_blank" title="Grafana">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">🔬 Computer Vision</h3>
-<p align="left">
+  <!-- Computer Vision & Robotics -->
   <a href="https://opencv.org/" target="_blank" title="OpenCV">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
   </a>
-</p>
+  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
+  <br/><br/>
 
-<h3 align="left">🔧 Others / Dev Tools</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" title="Arduino">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" title="Figma">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-  </a>
+  <!-- BI / Data Visualization -->
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=black" alt="D3.js" />
 </p>
 
 
+---
 
 
+  
 
 
 <p align="center">
