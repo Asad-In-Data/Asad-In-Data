@@ -1,57 +1,49 @@
 ![20250505_0618_Tech-Savvy Profile Banner_simple_compose_01jtf09vm1ejq9tdnrm261ps8g](https://github.com/user-attachments/assets/4f0e615a-c3b1-4dcd-a12f-1725a8220b2e)
 
-
 <h1 align="center">Hi 👋, I'm Asad Ali</h1>
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
-
 
 <p align="center">
     <a href="https://github.com/datz-asadanalyst" target="_blank">
         <img src="https://komarev.com/ghpvc/?username=datz-asadanalyst&label=Profile%20views&color=4A90E2&style=for-the-badge" alt="datz-asadanalyst" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
     </a>
 </p>
-
-
 <!-- Use inline CSS with float to move image to the right -->
 <img align="right" src="https://github.com/user-attachments/assets/12bcd327-e9f2-4368-aa17-ddb4d84a4338" alt="Data Analyst" width="250"/>
 
 <!-- Text stays on the left side -->
 
+```python
+# Who Am I?
+Data Analyst | ML Explorer | Robotics + Analytics Believer
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; font-size: 1.1em; color: #2c3e50;">
+# What I Do
+learning_path = [
+    "Data Science",
+    "Machine Learning",
+    "Deep Learning",
+    "Natural Language Processing"
+]
 
-  <p>🌱 <strong>Currently exploring:</strong> Data Science, Machine Learning, Deep Learning & NLP</p>
+tools = {
+    "Languages": ["Python", "SQL","C++","C"],
+    "BI Tools": ["Power BI", "Tableau", "Excel"],
+    "Libraries": ["Pandas", "NumPy", "Matplotlib","Searborn","Sciktlearn"]
+}
 
-  <p>👨‍💻 <strong>Explore my portfolio:</strong> 
-    <a href="https://datz-asadanalyst.github.io/" target="_blank" style="color: #1d72b8; text-decoration: none;">
-      My Portfolio
-    </a>
-  </p>
+# Resources
+portfolio = "https://datz-asadanalyst.github.io/"
+resume =  "https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view"
+contact = "asadalich56@gmail.com"
+location=    "Pakistan (Available for remote & freelance opportunities)"
 
-  <p>💬 <strong>Tech stack I work with:</strong> Python • SQL • Power BI • Tableau • Excel</p>
-
-  <p>📫 <strong>Contact me:</strong> 
-    <a href="mailto:asadalich56@gmail.com" style="color: #1d72b8; text-decoration: none;">
-      asadalich56@gmail.com
-    </a>
-  </p>
-
-  <p>📄 <strong>View my resume:</strong> 
-    <a href="https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view?usp=drive_link" target="_blank" style="color: #1d72b8; text-decoration: none;">
-      Resume Link
-    </a>
-  </p>
-
-  <p>⚡ <strong>Fun fact:</strong> I’m not just an Analyst — I’m a problem solver with a passion for innovation.</p>
-
-</div>
+```
+Fun Fact: I don’t just analyze — I innovate. Bringing data to life through intelligent insights and automation. Passionate about merging Data & Robotics to build future innovations.
 
 
 
+<!-- Text stays on the left side -->
 
-
-
-</div>
 
 
 
