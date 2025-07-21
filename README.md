@@ -1,5 +1,6 @@
-![20250505_0618_Tech-Savvy Profile Banner_simple_compose_01jtf09vm1ejq9tdnrm261ps8g](https://github.com/user-attachments/assets/4f0e615a-c3b1-4dcd-a12f-1725a8220b2e)
 
+
+<img width="2560" height="1440" alt="YouTube Banner - Asad Ali Data   Robotics Innovator (1)" src="https://github.com/user-attachments/assets/5e768958-f36b-4fd7-bd91-8497f16b6f97" />
 
 
 
