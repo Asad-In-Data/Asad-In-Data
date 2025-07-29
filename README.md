@@ -17,31 +17,55 @@
 
 <!-- Text stays on the left side -->
 
-```python
-# Who Am I?
-Data Analyst | ML Explorer | Robotics + Analytics Believer
+# 👋 Who Am I?
 
-# What I Do
-learning_path = [
-    "Data Science",
-    "Machine Learning",
-    "Deep Learning",
-    "Natural Language Processing"
-]
+I'm **Asad Ali**, a passionate **Data Analyst** who blends **Analytics, Machine Learning**, and **Robotics** to uncover insights and build smart systems.
 
-tools = {
-    "Languages": ["Python", "SQL","C++","C"],
-    "BI Tools": ["Power BI", "Tableau", "Excel"],
-    "Libraries": ["Pandas", "NumPy", "Matplotlib","Searborn","Sciktlearn"]
-}
+---
 
-# Resources
-portfolio = "https://datz-asadanalyst.github.io/"
-resume =  "https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view"
-contact = "asadalich56@gmail.com"
-location=    "Pakistan (Available for remote & freelance opportunities)"
+# 🚀 What I Do
 
-```
+I’m currently on a learning journey across:
+
+- 📊 Data Science & Analytics  
+- 🤖 Machine Learning & Deep Learning  
+- 🧠 Natural Language Processing (NLP)  
+- 🔍 Exploring how Robotics + Analytics can solve real-world problems
+
+---
+
+# 🛠️ Tools & Tech
+
+**Languages:**  
+Python • SQL • C++ • C
+
+**BI & Analytics Tools:**  
+Power BI • Tableau • Excel
+
+**Libraries & Frameworks:**  
+Pandas • NumPy • Matplotlib • Seaborn • scikit-learn
+
+---
+
+# 📂 My Work
+
+Check out my latest projects and case studies:  
+🌐 [Portfolio Website](https://datz-asadanalyst.github.io/)  
+📄 [View My Resume](https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view)
+
+---
+
+# 📫 Contact
+
+📧 Email: asadalich56@gmail.com  
+📍 Location: Pakistan (Open to **remote** & **freelance** roles)
+
+---
+
+> ⚡ “Turning data into decisions, and code into impact.”  
+
+
+
 ### 🔍 **Fun Fact**
 
 **I don’t just _analyze_  I _innovate_.**  Bringing **data to life** through intelligent insights and automation.  
