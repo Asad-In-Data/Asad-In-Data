@@ -1,6 +1,6 @@
 
 
-<img width="2560" height="1440" alt="YouTube Banner - Asad Ali Data   Robotics Innovator (1)" src="https://github.com/user-attachments/assets/5e768958-f36b-4fd7-bd91-8497f16b6f97" />
+<img width="2560" height="500" alt="YouTube Banner - Asad Ali Data   Robotics Innovator (1)" src="https://github.com/user-attachments/assets/5e768958-f36b-4fd7-bd91-8497f16b6f97" />
 
 
 
