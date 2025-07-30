@@ -19,7 +19,7 @@
 
 # 👋 Who Am I?
 
-I'm **Asad Ali**, a passionate **Data Analyst** who blends **Analytics, Machine Learning**, and **Robotics** to uncover insights and build smart systems.
+I'm **Asad Ali** who blends **Analytics, Machine Learning**, and **Robotics** to uncover insights and build smart systems.
 
 ---
 
@@ -79,9 +79,10 @@ Passionate about merging **Data & Robotics** to build the innovations of tomorro
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align="center">Connect with me:</h2>
+<p align="center">
 <a href="https://linkedin.com/in/asad ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad ali" height="30" width="40" /></a>
+<a href="https://medium.com/@asadchishti46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="asad ali" height="30" width="40" /></a>    
 </p>
 
 
