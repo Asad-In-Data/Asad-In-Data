@@ -62,7 +62,7 @@ Check out my latest projects and case studies:
 
 ---
 
-> ⚡ “Turning data into decisions, and code into impact.”  
+
 
 
 
