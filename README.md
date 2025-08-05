@@ -17,9 +17,7 @@
 
 <!-- Text stays on the left side -->
 
-#  Who Am I?
-
-I'm **Asad Ali** who blends **Analytics, Machine Learning**, and **Robotics** to uncover insights and build smart systems.
+ Who blends **Analytics, Machine Learning**, and **Robotics** to uncover insights and build smart systems.
 
 ---
 
