@@ -8,10 +8,11 @@
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
 
 <p align="center">
-    <a href="https://github.com/datz-asadanalyst" target="_blank">
-        <img src="https://komarev.com/ghpvc/?username=datz-asadanalyst&label=Profile%20views&color=4A90E2&style=for-the-badge" alt="datz-asadanalyst" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+    <a href="https://github.com/Asad-In-Data" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=datz-asadanalyst&label=Profile%20views&color=4A90E2&style=for-the-badge" alt="Asad-In-Data" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
     </a>
 </p>
+
 <!-- Use inline CSS with float to move image to the right -->
 <img align="right" src="https://github.com/user-attachments/assets/12bcd327-e9f2-4368-aa17-ddb4d84a4338" alt="Data Analyst" width="250"/>
 
