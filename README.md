@@ -142,7 +142,7 @@ Passionate about merging **Data & Robotics** to build the innovations of tomorro
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=datz-asadanalyst&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Asad Ali GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Asad-In-Data&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="Asad Ali GitHub Streak" />
 </p>
 
 
