@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Asad Ali</h1>
+<h1 align="center">Hi, I'm Asad Ali</h1>
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
 
 <p align="center">
