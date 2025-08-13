@@ -13,8 +13,7 @@
     </a>
 </p>
 
-<!-- Use inline CSS with float to move image to the right -->
-<img align="right" src="https://github.com/user-attachments/assets/12bcd327-e9f2-4368-aa17-ddb4d84a4338" alt="Data Analyst" width="250"/>
+
 
 <!-- Text stays on the left side -->
 
