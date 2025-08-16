@@ -61,22 +61,6 @@ Check out my latest projects and case studies:
 ---
 
 
-
-
-
-### 🔍 **Fun Fact**
-
-**I don’t just _analyze_  I _innovate_.**  Bringing **data to life** through intelligent insights and automation.  
-Passionate about merging **Data & Robotics** to build the innovations of tomorrow.
-
-
-
-
-<!-- Text stays on the left side -->
-
-
-
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
 <a href="https://linkedin.com/in/asad ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad ali" height="30" width="40" /></a>
