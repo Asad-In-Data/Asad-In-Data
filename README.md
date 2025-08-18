@@ -14,9 +14,6 @@
 </p>
 
 
-
-<!-- Text stays on the left side -->
-
  Who blends **Analytics, Machine Learning**, and **Robotics** to uncover insights and build smart systems.
 
 ---
@@ -41,7 +38,7 @@ Python • SQL • C++ • C
 Power BI • Tableau • Excel
 
 **Libraries & Frameworks:**  
-Pandas • NumPy • Matplotlib • Seaborn • scikit-learn
+Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Tensor flow • Streamlit
 
 ---
 
@@ -50,13 +47,6 @@ Pandas • NumPy • Matplotlib • Seaborn • scikit-learn
 Check out my latest projects and case studies:  
 🌐 [Portfolio Website](https://asad-in-data.github.io/)  
 📄 [View My Resume](https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view)
-
----
-
-# 📫 Contact
-
-📧 Email: asadalich56@gmail.com  
-📍 Location: Pakistan (Open to **remote** & **freelance** roles)
 
 ---
 
