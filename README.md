@@ -45,8 +45,8 @@ Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Ten
 # 📂 My Work
 
 Check out my latest projects and case studies:  
-🌐 [Portfolio Website](https://asad-in-data.github.io/)  
-📄 [View My Resume](https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view)
+###  [Portfolio Website](https://asad-in-data.github.io/)
+###  [View My Resume](https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view)
 
 ---
 
