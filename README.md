@@ -45,10 +45,15 @@ Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Ten
 # 📂 My Work
 
 Check out my latest projects and case studies:  
-###  [Portfolio Website](https://asad-in-data.github.io/)
-###  [View My Resume](https://drive.google.com/file/d/1DY2xDkMrlqRsxJpfPS8S-Hayn-F6wLbC/view)
+<p align="center">
+  <a href="https://asad-in-data.github.io/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/71e87968-b5ed-483b-9196-c523979848dd" alt="Asad Ali" height="120" width="100" />
+  </a>
+</p>
+
 
 ---
+
 
 
 <h2 align="center">Connect with me:</h2>
