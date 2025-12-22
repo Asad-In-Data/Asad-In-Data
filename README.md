@@ -14,11 +14,7 @@
 </p>
 
 
- Who blends **Analytics, Machine Learning**, and **Robotics** to uncover insights and build smart systems.
-
----
-
-# 🚀 What I Do
+#  What I Do
 
 I’m currently on a learning journey across:
 
@@ -43,8 +39,7 @@ Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Ten
 ---
 
 # 📂 My Work
-
-Check out my latest projects and case studies:  
+ 
 <p align="center">
   <a href="https://asad-in-data.github.io/" target="_blank">
     <img src="https://github.com/user-attachments/assets/71e87968-b5ed-483b-9196-c523979848dd" alt="Asad Ali" height="80" width="60" />
@@ -52,7 +47,7 @@ Check out my latest projects and case studies:
 </p>
 
 <p align="center">
-  <a href="https://asad-in-data.github.io/" target="_blank">Visit My Portfolio</a>
+  <a href="https://asad-in-data.github.io/" target="_blank">Visit My Portfolio Website</a>
 </p>
 
 
