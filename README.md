@@ -1,10 +1,7 @@
-
+<h1 align="center"> 💫 Hi, I'm Asad Ali</h1>
 
 <img width="1060" height="350" alt="YouTube Banner - Asad Ali Data   Robotics Innovator (1)" src="https://github.com/user-attachments/assets/5e768958-f36b-4fd7-bd91-8497f16b6f97" />
 
-
-
-<h1 align="center"> 💫 Hi, I'm Asad Ali</h1>
 <h3 align="center">A passionate Data Scientist and Analyst</h3>
 
 <p align="center">
