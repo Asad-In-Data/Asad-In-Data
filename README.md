@@ -2,7 +2,7 @@
 
 <img width="1060" height="350" alt="YouTube Banner - Asad Ali Data   Robotics Innovator (1)" src="https://github.com/user-attachments/assets/5e768958-f36b-4fd7-bd91-8497f16b6f97" />
 
-<h3 align="center">A passionate Data Scientist and Analyst</h3>
+<h3 align="center">  </h3>
 
 <p align="center">
     <a href="https://github.com/Asad-In-Data" target="_blank">
@@ -13,8 +13,6 @@
 
 #  What I Do
 
-I’m currently on a learning journey across:
-
 - 📊 Data Science & Analytics  
 - 🤖 Machine Learning & Deep Learning  
 - 🧠 Natural Language Processing (NLP)  
@@ -22,7 +20,7 @@ I’m currently on a learning journey across:
 
 ---
 
-# 🛠️ Tools & Tech
+#  Tools & Tech
 
 **Languages:**  
 Python • SQL • C++ • C
@@ -31,7 +29,11 @@ Python • SQL • C++ • C
 Power BI • Tableau • Excel
 
 **Libraries & Frameworks:**  
-Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Tensor flow • Streamlit
+Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Tensor flow • Streamlit 
+
+**Web DEV:**  
+HTML • CSS • JAVA Script • Flask • Django 
+
 
 ---
 
@@ -39,9 +41,11 @@ Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Ten
  
 <p align="center">
   <a href="https://asad-in-data.github.io/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/71e87968-b5ed-483b-9196-c523979848dd" alt="Asad Ali" height="80" width="60" />
+    <img src="https://github.com/user-attachments/assets/bfbee705-96a0-4129-a6d2-e8d685e85ab2" alt="Asad Ali" height="100" width="80" />
   </a>
 </p>
+
+
 
 <p align="center">
   <a href="https://asad-in-data.github.io/" target="_blank">Visit My Portfolio Website</a>
@@ -52,19 +56,12 @@ Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Ten
 
 
 
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a href="https://linkedin.com/in/asad ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad ali" height="30" width="40" /></a>
-<a href="https://medium.com/@asadchishti46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="asad ali" height="30" width="40" /></a>    
-</p>
-
 
 
 
 
 <!-- TECHNOLOGIES & TOOLS -->
-
-<h2 align="center">🚀 Tech Stack</h2>
+# 🚀 Tech Arsenal
 
 <p align="center">
   <!-- Programming Languages -->
