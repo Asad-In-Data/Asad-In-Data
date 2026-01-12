@@ -16,23 +16,9 @@
 - 📊 Data Science & Analytics  
 - 🤖 Machine Learning & Deep Learning  
 - 🧠 Natural Language Processing (NLP)  
-- 🔍 Exploring how Robotics + Analytics can solve real-world problems
+- 🔍 Exploring Robotics + Cobotics
+- 🙌 System Designing
 
----
-
-#  Tools & Tech
-
-**Languages:**  
-Python • SQL • C++ • C
-
-**BI & Analytics Tools:**  
-Power BI • Tableau • Excel
-
-**Libraries & Frameworks:**  
-Pandas • NumPy • Matplotlib • Seaborn • scikit-learn • Pytorch • Tensor flow • Streamlit 
-
-**Web DEV:**  
-HTML • CSS • JAVA Script • Flask • Django 
 
 
 ---
