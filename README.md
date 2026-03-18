@@ -47,7 +47,15 @@
 
 
 <!-- TECHNOLOGIES & TOOLS -->
-# 🚀 Tech Arsenal
+<!--# 🚀 Tech Arsenal-->
+
+<p align="center">
+
+  <!-- Title Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=My+Tech+Stack;AI+%7C+Data+Science+%7C+Development" />
+
+  <br/><br/>
+
 
 <p align="center">
   <!-- Programming Languages -->
