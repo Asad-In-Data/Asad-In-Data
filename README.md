@@ -54,60 +54,35 @@
 
 
 
-<!-- TECHNOLOGIES & TOOLS -->
-<!--# 🚀 Tech Arsenal-->
+## 🚀 Tech Stack
 
 <p align="center">
 
-  <!-- Title Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=My+Tech+Stack;AI+%7C+Data+Science+%7C+Development" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp" />
 
-  <br/><br/>
+<br/>
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" alt="Programming Languages" />
-  <br/><br/>
+<br/>
 
-  <!-- ML / DS Libraries -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="ML Libraries" />
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-learn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" alt="Seaborn"/>
-  </a>
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" title="PostgreSQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" title="SQL Server">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/>
-  </a>
-  <br/><br/>
+<br/>
 
-  <!-- Computer Vision & Robotics -->
-  <a href="https://opencv.org/" target="_blank" title="OpenCV">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
-  </a>
-  <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" />
-  <br/><br/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=arduino" />
 
-  <!-- BI / Data Visualization -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=black" alt="D3.js" />
+<br/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=black"/>
+
 </p>
-
 
 
 
